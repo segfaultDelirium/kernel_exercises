@@ -1,0 +1,1 @@
+cmd_/home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2d/ex2d.mod := { echo  /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2d/ex2d.o;  echo; } > /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2d/ex2d.mod

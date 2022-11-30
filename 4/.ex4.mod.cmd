@@ -1,0 +1,1 @@
+cmd_/home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/4/ex4.mod := { echo  /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/4/ex4.o;  echo; } > /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/4/ex4.mod
