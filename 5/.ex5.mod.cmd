@@ -1,1 +1,0 @@
-cmd_/home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/5/ex5.mod := { echo  /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/5/ex5.o;  echo; } > /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/5/ex5.mod

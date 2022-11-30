@@ -1,1 +1,0 @@
-cmd_/home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2c/ex2c.mod := { echo  /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2c/ex2c.o;  echo; } > /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/2c/ex2c.mod
