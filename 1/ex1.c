@@ -3,7 +3,7 @@
 #include <linux/module.h>
 #include <linux/fs.h>
 
-
+MODULE_LICENSE("GPL");
 #define MYMAJOR 91
 #define NAME "ex1_module"
 

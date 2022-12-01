@@ -1,6 +1,8 @@
 #include <linux/init.h>
 #include <linux/module.h>
 
+MODULE_LICENSE("GPL");
+
 static char *message = "default message";
 #define PERMISSIONS 0664
 
