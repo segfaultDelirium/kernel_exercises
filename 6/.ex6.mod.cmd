@@ -1,0 +1,1 @@
+cmd_/home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/6/ex6.mod := { echo  /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/6/ex6.o;  echo; } > /home/leaf/Desktop/linux_kernel_from_pc/modules/cwiczenia/6/ex6.mod
